@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\bin\Debug\Interaksi antar Form.exe.config
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\bin\Debug\Interaksi antar Form.exe
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\bin\Debug\Interaksi antar Form.pdb
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi antar Form.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi_antar_Form.FrmLogin.resources
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi_antar_Form.FrmMain.resources
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi_antar_Form.Properties.Resources.resources
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi antar Form.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi antar Form.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi antar Form.exe
+C:\Users\asus\source\repos\Interaksi antar Form\Interaksi antar Form\obj\Debug\Interaksi antar Form.pdb
